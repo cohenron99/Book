@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="4">
+            <Title>Away From The Light(F)</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+            <Synopsis>add details to the chapter, discribing Faross's fetures, add the envirmant</Synopsis>
+            <Text>Finally, Faros thought to himself, it had been four hours since he set out to the pyramid. A full month had passed since the last time, and he was about to run out of coin.
+Now…how do I get in? he thought to himself as he started circling the pyramid.
+It wasn't a particularly big pyramid, Faros noted to himself,
+“Probably a consultant to some pharaoh is berried here” he said in a disappointed voice. Well I am already here, at least I get something out of this trip.
+After he didn't find any obvious entrances in the bottom floor of the pyramid Faros started climbing towards the floor above it. It took him a while but finally he found something interesting, on the stone in front of him was written a warning telling anyone who saw it that this pyramid is the resting place of Qa’a, the 23rd Pharaoh’s nephew, and that anyone that shall enter will die a painful death.
+“Haha what a pile of nonsense.” Faros said while laughing, he saw hundreds of warnings like that one throughout his years breaking into pyramids and stealing the treasure that was left inside. “Like someone will actually believe that.” He said smiling.
+Watching his feet careful not to slip, Faros started searching for any holes or imperfections in the stone wall, he knew that this was the way into the tomb.
+“Ah ha!!” Faros shouted, he found a hole the builders of the pyramid left, “rookies…“ Faros said while grinning, it was clear that this Qa’a wasn’t someone important at all.
+Faros took out the tools that he made himself from his bag and in a matter of minutes he pulled out from the wall a small thin square-shaped stone that revealed a narrow and small tunnel.
+Faros that was barely a meter and a half tall, had no problem passing through the tunnel straight into a small room inside the pyramid.
+The room walls were covered with paintings and hieroglyphs telling all sorts of stories. Faros couldn’t care less, he walked right through the room not even laying an eye on the paintings on the walls.
+In the other side of the room was a small door, Faros tried opening it but not to his surprise it was locked, normally a locked door wouldn’t have been any trouble for Faros to open, but this time was different, when he examined the door he noticed there wasn’t a keyhole.
+Baffled, Faros turned around and paid attention to the writings on the walls for the first time, looking for some sort of explanation, at first the stories didn’t seem to relate to the door, nor give any clues on how to open it.
+One of the stories was about a war that happened a few hundred years ago, between the Egyptian and the Hyksos, another story was about a child Pharaoh that died an early death.
+“Nothing useful, whats the point in building a door without a way to open it?” He thought out loud. “Well, looks like the stories are not going to help me, maybe something else?”
+As he went through the paintings again, this time instead of trying to find the solution in the stories them self, Faros paid more attention to the drawings.
+He noticed a painting of a door, he moved his hands through the wall, pressing down on it when he touched the drawing of the door.
+Suddenly Faros heard a clicking sound, he turned around quickly and looked at the door, it didn’t seem different, but when he pulled the handle, the door gave and opened.
+“What the hell? Why is there such a complicated mechanism in some Pharaoh’s nephew’s tomb?” he wondered, “Maybe this wasn’t a waste of time after all” Faros said as he started getting excited. He opened the door completely and passed through it.
+Until now, the tunnel that led him to the room, and the room itself were being lit by the sun, but as Faros walked in through the door the sun was starting to set, and the room grew darker.
+Faros had plenty of experience working and traveling in the dark, so he came prepared, he took the wooden tool he used to pull out the square-shaped stone that was blocking the entrance, wrapped it with some cloth he had in his bag and lit it on fire using a fire stone he found a while ago, and in a couple of seconds the fire was shedding light throughout the entire tomb.
+Now that he could see the room clearly, Faros started looking around, it was a weird room, filled with unlit candles and a couple of small bags.
+But at the center of the room, was the coffin, normally Faros wouldn’t hesitate to open the coffin, looking for treasure, he did it countless times, but this time, this time it was different, this time the coffin was already open.
+In an instant his excitement faded away and his grinning smile changed into a terrified expiration, as he took a step backwards his right hand flew towards his necklace. It was his mother’s, she gave it him on the day of her death, and he never took it of since, not even once. No matter how difficult and desperate things got, he never gave it away. Every time he got scared or nervous he touched that necklace, and thought about his mother
+After a few moments, and after Faros regained his composure, he entered the room once again. Slowly, while looking for any sign of movement he got closer and closer to the coffin, eventually close enough to see what was inside of it, he stretched his neck forward, not sure what to expect. To his surprise, the coffin was empty.
+While searching the rest of the room, Faros tried to make sense out of what he just witnessed. I don’t get it, Sure, maybe someone else had been here before, but where did the corpse go? What would someone do with it? And why leave all the jewelry, silver and gold behind?”</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="9">
+            <Title>Standard Manuscript</Title>
+        </Document>
+        <Document ID="10">
+            <Title>ADE E-Book</Title>
+        </Document>
+        <Document ID="11">
+            <Title>E-Book</Title>
+        </Document>
+        <Document ID="12">
+            <Title>Novel Format</Title>
+            <Text>NOVEL FORMAT
+
+About This Template
+By default, when compiled (File &gt; Compile), this project will generate a document in the standard manuscript format for novels. The necessary settings are also provided to make it easy to compile to a paperback-style PDF for self-publishing or an EPUB or Kindle e-book.
+
+How To Use This Template
+Create a new folder for each chapter and title each folder with the name of the chapter. If you don’t intend to use chapter names, just use something descriptive that tells you what the chapter is about. (You do not need to—and indeed shouldn’t—title the folders “Chapter One” and so on, because chapter numbering will be taken care of automatically during the Compile process.) The first chapter folder has been created for you with the placeholder title “Chapter”.
+Create a new text document for each scene inside the chapter folders. (Upon export, scenes will be separated with the “#” character for standard manuscript format, or with a blank line for other formats.)
+Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Character and setting sketch sheets have been provided for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
+
+Compiling
+Title pages and front matter are all provided in the “Front Matter” folder (between the “Places” and “Research” folders). You will choose different front matter depending on the format to which you are compiling.
+Scrivener remembers your compile settings, so you only need to follow the instructions below when you want to compile to a different format. After that, you can just go to File &gt; Compile… and click the “Compile” button straight away.
+
+To compile to standard manuscript format:
+Edit the “Title Page” document inside the Front Matter/Manuscript Format folder to ensure that it contains the correct information. (The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; placeholders will be replaced during compile with the information you provide in the Project Properties tab of Project &gt; Meta-Data Settings…, or you can delete them and enter whatever text you like.)
+Go to File &gt; Compile…
+Select “Standard Manuscript Format” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” option is ticked and select the “Manuscript Format” folder from the menu button next to it (this is already selected by default).
+Click “Compile”.
+
+To compile to paperback PDF format:
+Edit the front matter pages contained inside the Front Matter/Paperback Novel folder.
+Go to File &gt; Compile…
+Select “Paperback Novel” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+Ensure that the “Add front matter” button is ticked and select the “Paperback Novel” folder from the menu button next to it if it is not already selected.
+Click “Compile”.
+
+To compile to e-book format:
+Edit or remove the dedication page contained inside the Front Matter/E-Book folder. Feel free to add any other front matter documents as required.
+Import a cover image (the recommended size is 600x800 pixels, preferably in JPG or PNG format). You can store this anywhere, but it makes sense to place it in the “E-Book” front matter folder. A placeholder cover image is already provided—you will want to delete that once you have imported your own.
+Go to File &gt; Compile…
+Select “E-book (with Parts)” from the “Format As” menu button if it is not already selected.
+Expand the window to show all the compile options by clicking the blue arrow button to the right of the “Format As” menu button.
+If you have front matter documents other than the cover image, ensure that the “Add front matter” option is ticked and select the “E-Book” folder from the menu button next to it if it is not already selected. If you don’t have any front matter documents, you can un-tick “Add front matter”. (This does not affect the cover image.)
+If you have imported your own cover image, be sure to click “Cover” in the left sidebar and select the image from the “Cover Image” menu button.
+From the “Compile for” menu button, choose whether to export to EPUB or Kindle format.
+Click “Compile”.
+
+Making Changes
+There are various minor changes you can make to the settings to tweak this template so that it better suits your needs, as follows:
+Project and author name: The default book title and author name used in headers and elsewhere can be customised by going to Project &gt; Meta-Data Settings… and choosing the “Project Properties” tab.
+Chapter subtitles: If you don’t want to include the names of your chapter folders below the chapter numbering text in the compiled document, go to the “Formatting” pane in the Compile dialog and deselect “Title” in the list of elements to include.
+Page header and footer: You can edit the page header in the “Page Settings” pane of the Compile dialog.
+Page size: The “Paperback Novel” format is set to export to a page size of 5.06” x 7.81”, which is one of the formats you can use with CreateSpace. You can customise this by clicking the menu button beside “Paper Size” in the “Page Settings” pane of Compile.
+Font: You can use the “Formatting” pane in Compile to change the font used in the final document by selecting a row in the elements table, then clicking into the preview text to select it and clicking the “A” button in the format bar to change the font settings. Note that fonts are not included in e-books, however—e-readers choose their own fonts (and you would need to pay a hefty fee for a licence to embed a particular font in an e-book).
+Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents &gt; Change Icon to choose a different icon.
+To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+Working with chapters instead of scenes: By default, this project is set up so that you write each scene as a separate text document. If you don’t like to break things up quite that much and would prefer to write an entire chapter in each text document, make the following changes:
+Rename the “Scene” document to use your chapter title and move it so that it is on the same level as the “Chapter” folder rather than being inside it.
+Move the “Chapter” folder to the Trash.
+Create a new text document for each chapter.
+In the “Separators” pane of the Compile dialog, change the “Text separator” setting to “Page break”.
+If your scene separators are centred (for instance if you are using “#” as the scene separator) and you want them to appear centred in the compiled document, too, select them and choose Format &gt; Formatting &gt; Preserve Formatting.
+Everything else: The above constitutes only the most common changes. You can completely change the output format by changing the various settings available in Compile.
+
+Sample Documents
+The “Sample Output” folder inside the Research folder contains examples of documents that have been created by compiling from this template. “Standard Manuscript” shows the results when compiling to “Standard Manuscript Format”; “Paperback Novel” shows the results when compiling to “Paperback Novel” format; and “ADE E-book” shows the results when compiling to “E-book” format and opening the resulting EPUB file in Adobe Digital Editions on Windows.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Paperback Novel</Title>
+        </Document>
+        <Document ID="14">
+            <Title>Manuscript Format</Title>
+        </Document>
+        <Document ID="16">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+Insert dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="17">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Copyright</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © year &lt;$fullname&gt;
+All rights reserved.
+ISBN:
+ISBN-13:</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="20">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="21">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+&lt;$fullname&gt;</Text>
+            <Notes>These tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="22">
+            <Title>Dedication</Title>
+            <Text>
+
+
+
+
+Your dedication here.</Text>
+            <Notes>Feel free to delete this document if you don’t need it.</Notes>
+        </Document>
+        <Document ID="23">
+            <Title>Cover</Title>
+        </Document>
+        <Document ID="24">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+		Role in Story:	
+
+		Related Characters:	
+
+		Season:	
+
+		Unique Features:	
+
+		Description:	
+
+		Sights:	
+		Sounds:	
+		Smells:	
+
+		Notes:	</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+Name: Faros
+Age: 16
+Nationality: Egyptian
+Socioeconomic Level as a child: poor
+Socioeconomic Level as an adult: N/A
+Hometown: Tarnos
+Current Residence: No home, near a river
+Occupation: Grave Robber
+Income: varies
+Talent/Skills: N/A
+Birth order: oldest
+Siblings: one sister
+Spouse: none
+Parents: Dad-elden, mom-unknown
+
+Height: 160 cm
+Weight: 60 kg
+Race: middle eastern
+Eye color: right brown, left white/gray
+Hair color: brown
+Skin color: light brown
+Distinguishing features: huge scar throughout his left side from his eye to his torso
+Clothing: disheveled, sandals, short leather pants, leather shirt with holes
+Habits: rubs a silver coin inside his pocket when he is nervous
+Disabilities: can’t see in his left eye
+Style: shy, quiet, polite
+Greatest flaw: awkward around strangers and people in general
+Best quality: trustworthy, kind, generous
+
+Educational Background: none
+Intelligence level: very clever
+Mantel illness: suffers from depression, cant sleep very well, trouble falling asleep
+Learning experiences: the school of life
+Short term goal: food, money, provide for his younger sister
+Long term goal: stability for himself and for his sister
+Self confident: barely have any, doubts his abilities
+Ruled by: emotion, and his heart
+
+Strengths: fast on his feet, quick thinker, great problem solver, great lock picker
+Weaknesses: cant see in his left eye, gullible
+Dealing with:
+	Anger- doesn't get angry
+	Sadness- talks to the sky at night and tell it whats ever on his mind
+	Loss- breaks apart
+	
+What he wants out of life: he’s not materialistic, he wants the most basic life style
+What would he like to change: his and his sister’s social and economical status
+Motives: his sister’s well being
+Frightens: things he does not understand
+Happy: finding strange and amazing treasure while he grave robbing
+Spiritual beliefs: none, he does not believe in god
+
+Characters rule in the story: Main character
+First scene: outside a pyramid trying to get inside
+
+Relationships with other characters:
+
+1.(sister name) — loving brother to her, serves as a father and a rule model
+	         She is not his biological brother, but he doesn't know that
+                                She loves his, and afraid for him when he grave robbing
+                                His entire world surrounds her
+
+
+
+The differences in the character from the start to the end:
+He achieved all he asked for in the beginning, he lives in a nice house near a river
+He has all the money he needs for his life style
+His left eye regained the ability to see, and its color changed to blue
+He over came his sister’ s death
+He lives with his lover
+He know who are his parents and met them
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="39">
+            <Title>Sample Output</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Title Page</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>
+Ron Cohen
+Edward Berenstain
+0586336615
+Cohenron99@gmail.com
+
+N/A
+N/A
+&lt;$wc100&gt; words.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+
+by &lt;$fullname&gt;</Text>
+            <Notes>This is the title page of the manuscript. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="42">
+            <Title>Faros</Title>
+            <Text>Faros
+Name: Faros
+Age: 16
+Nationality: Egyptian
+Socioeconomic Level as a child: poor
+Socioeconomic Level as an adult: can support his basic live style
+Hometown: Tarnos
+Current Residence: No home, near a dirty river
+Occupation: Grave Robber
+Income: very small amounts
+Birth order: oldest
+Siblings: one sister
+Spouse: none
+Parents: Dad-elden, mom-unknown
+
+Height: 160 cm
+Weight: 50 kg
+Race: middle eastern
+Eye color: right green, left white/gray
+Hair color: brown
+Skin color: light brown
+Distinguishing features: huge scar throughout his left side from his eye to his torso
+Clothing: disheveled, sandals, short leather pants, leather shirt with holes
+Habits: rubs a silver coin inside his pocket when he is nervous
+Disabilities: can’t see in his left eye
+Style: shy, quiet, polite
+Greatest flaw: awkward around strangers and people in general
+Best quality: trustworthy, kind, generous
+
+Educational Background: none
+Intelligence level: very clever
+Mantel illness: suffers from depression, cant sleep very well, trouble falling asleep
+Learning experiences: the school of life
+Short term goal: food, money, provide for his younger sister
+Long term goal: stability for himself and for his sister
+Self confident: barely have any, doubts his abilities
+Ruled by: emotion, and his heart
+
+Strengths: fast on his feet, quick thinker, great problem solver, great lock picker
+Weaknesses: cant see in his left eye, gullible
+Dealing with:
+	Anger- doesn't get angry
+	Sadness- talks to the sky at night and tell it whats ever on his mind
+	Loss- breaks apart
+	
+What he wants out of life: he’s not materialistic, he wants the most basic life style
+What would he like to change: his and his sister’s social and economical status
+Motives: his sister’s well being
+Frightens: things he does not understand
+Happy: finding strange and amazing treasure while he grave robbing
+Spiritual beliefs: none, he does not believe in god
+
+Characters rule in the story: Main character, love interest
+First scene: outside a pyramid trying to get inside
+
+Relationships with other characters:
+
+1.(sister name) — loving brother to her, serves as a father and a rule model
+	         She is not his biological sister, but he doesn't know that
+                                She loves his, and afraid for him when he grave robbing
+                                His entire world surrounds her
+
+2.Lola — At first, Faros was afraid of Lola, he never saw anyone like her
+                After awhile he got comfortable with her, and they became friends
+               Through their journeys he started to have fillings for her, and eventually they fell in         
+               love and move together to a planet of their own. 
+
+
+The differences in the character from the start to the end:
+Lives with Lola in a private planet, it’s a beautiful green plant with lots of water and wried and cute animals.
+Faros and Lola became immortal, and cant die
+His left eye regained the ability to see, and its color changed to blue
+He over came his sister’ s death
+He know who are his parents and met his father
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="43">
+            <Title>In the Darkness(L)</Title>
+        </Document>
+        <Document ID="45">
+            <Title>scene</Title>
+            <Text>vcv</Text>
+        </Document>
+        <Document ID="47">
+            <Title>Lola</Title>
+            <Text>Lola (aka. Lin)
+Name: Lola
+Age: 20
+Nationality: Alien
+Socioeconomic Level as a child: Rich
+Socioeconomic Level as an adult: maneging
+Hometown: 
+Current Residence: N/A
+Occupation: N/A
+Siblings: none
+Spouse: none
+Parents: mother - Ora, father - unknown
+
+Height: 155 cm
+Weight: 40 kg
+Race: Caucasian 
+Eye color: brown
+Hair color: brown
+Skin color: white
+Clothing: starts with futuristic clothing, very rich looking
+Style: loud, happy
+Disabilities: cant remember who she is 
+Greatest flaw: act before she thinks
+Best quality: loving
+
+Educational Background: alien home schooling
+Intelligence level: average
+Short term goal: find who she is
+Long term goal: return home, and get revenge on her mother
+Self confident: have lots of confidence
+Ruled by: emotion
+
+Strengths: don’t have any particular strengths 
+Weaknesses: doesn’t seem to think
+Dealing with:
+	Anger- lashes out
+	Sadness- doesn’t  show it, keeps to herself
+	
+What he wants out of life: live in a big castle, in her own planet
+What would he like to change: get back to where she was in her youth
+Motives: inner voice telling her what she has isn’t enough 
+Frightens: the thought she wouldn’t achieve her goals
+Happy: little success, and imagining what it would be like when she reaches her goal
+Spiritual beliefs: none, she does not believe in god
+
+Characters rule in the story: Main character, Love interest
+First scene: trapped inside a coffin, in a strange room, trying to get out
+
+Relationships with other characters:
+
+1.(Faros) —  At the beginning she finds him interesting and exotic,
+                      At first he is scared of her, but with time and the adventures to come they grew 	                      closer and at the end they live together
+                      
+
+
+The differences in the character from the start to the end: 
+At the end Lola got revenge on her mother, 
+she ended up living in her own planet with Faros like she wanted 
+They are immortals
+
+
+Notes:
+Lola and her family are a part of an ancient human civilization that evolved and went to explore space
+After thousands of years they spread out in space, but Lola’s family decided to stay close to Earth, they used their advanced technology to manipulate events on earth, and eventually the people of Earth started thinking that gods do exists 
+
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="48">
+            <Title>Home(F)</Title>
+        </Document>
+        <Document ID="49">
+            <Title>Scene</Title>
+            <Text>“Big brother!! You are home!” shouted Mira, Faros’s little sister, “How was your journey? Did you bring me a surprise like you promised?”.
+“Haha, Relax”, Faros said while laughing, delighted to see his sister again, he was gone for almost two full days. 
+“Of course I did”, he reached into his bag and took out a beautiful bracelet made from bronze, ornamented with little gems made from glass.
+“Do you like it?”, He asked his sister.
+“I love it, where did you find it?”
+“Inside the pyramid I told you about awhile ago.”
+“Wow, so it must be super expensive” Mira said in an excited voice.
+It really wasn’t, it was a cheap replica but he decided to make her happy, “It sure is, so keep it safe, OK?” 
+“OK” replied Mira, as happy as a six years old can be.
+Faros and Mira didn’t have parents, their mother died when he was only eleven, and his little sister was only a newborn. Their father, they never knew and Faros who was only a young boy when his mother was still alive, never asked about him.
+Since his mother’s death, Faros took care of himself and his sister as well as he could. He didn’t have any useful skills or talents that could help him earn money, so they were left poor, living in a small tent in the outskirts of Tarnos, a small city in the south part of Egypt.
+At first, Faros had to steal food and provisions from the city’s main market so they could survive, but it was too risky, the punishment for theft was execution. So he was forced to find another way to get money.
+It was common knowledge that the pyramids were the resting place of the most important people in Egypt, generally built only for Pharaohs, their families and the highest- ranking officials. It was also common knowledge that these pyramids were filled with jewelry, and some gold and silver.  
+The only good thing Faros had going for himself, was his size, he was very small and agile. So in order to provide for himself and for Mira, he became a Grave Robber.
+Every few weeks, Faros set out looking for distant and remote pyramids, breaking into them and stealing the treasure that was left inside. In the meanwhile, Mira was left alone in their tent waiting for his return.
+The day after had come, and Faros needed to buy more supplies from the market. 
+“Mira!” Faros shouted, “Do you want to come with me to the market?”
+“of course, when are we going?”, Mira replied.
+“Soon, help me sort the jewelry from the gold and silver, I’ll try selling them to one of the merchants.”
+Even though he got some silver and gold from the tombs, they were mostly filled with jewelry. So he had to rely on selling them, the coin in the tomb just wasn’t enough.
+Faros knew its unlikely that he’ll manage to sell any of the jewelry. It was fine jewelry, no one could say otherwise, but the merchants were hesitant buying it from a young disheveled looking boy, and for a reason, he did steal it after all.
+After half an hour, they set out to the market, silver in his pocket, and a ring he picked in his bag just in case he will find a willing merchant.
+“Here you go” Faros said to Mira as he handed her a few bronze coins, “Go and treat yourself.” 
+“Thank you Big Brother!”, Mira screamed filled with joy.
+“Just don’t get too far” he shouted to her as she run while thinking on what to spend the coin.
+At least that, Faros thought while smiling sadly
+Faros on the other hand, didn’t have the privilege of running where he wanted and have fun, the market was about to close and he still needed to buy lots of food, a new dress for Mira, and some new tools. Also, try to sell the jewelry he brought with him.
+An hour had past and he managed to buy all that he wanted, so that’s done, now where are the jewelry merchants, Faros thought to himself.
+He spotted a little tent with countless beautiful necklaces, rings, earrings and bracelets on the outside.
+He got closer and saw an old woman sitting just beside the tent. 
+“Greetings.” Faros said politely.
+she didn’t replay with the same courtesy, “Do you have coin? If you don’t go away and leave me be.” the old lady said in a nasty tone.
+“No, but I don’t want to buy anything.” he said quietly. 
+“Then be gone!” the old lady yelled at Faros.
+“Wait, please, I have some jewelry of my own I am willing to sell…”
+“What don’t you understand boy? NO!”
+“Please!” he pleaded, “At least take a look, maybe just tell me how much it worth.”
+She stared at him quietly for a whole minute before she finally replied “Fine, but after that I don’t want to see you again.”
+“Thank you” Faros said while he smiled kindly. He took out the jewelry he brought with him, a medium size ring beautifully made, with a deep blue, smooth stone on top of it.
+The moment the old lady saw the ring her nasty attitude was replaced with wonder, she examined the ring in her hand for a short while, then looked at Faros suspiciously, “Where did you find this?” 
+“inheritance” he replied quickly, “from my mother” 
+—A lie he was used to tell— 
+“hmm, it’s a nice ring I’ll tell you that much.”
+“So will you buy it?” Faros asked, his eyes sparkling with excitement.
+“I will. I’ll give 10 silver coins for it.”
+“10 silver coins? It’s surely worth more, you said so yourself.”
+“If you don’t like my offer you can try selling it somewhere else” she said with a heinous smile.
+She knows that no one else would buy it from me, “Fine, 10 silver coins it is”, he said unwillingly.
+“Lovely doing business with you” the old hug said in an annoyingly happy voice.
+With his newly bought items and the silver the old woman gave him, he went to the market’s entrance where Mira was waiting for him.
+“It’s about time, I’ve been waiting for you for 10 minutes.” Mira shouted at him, not actually angry.
+“Sorry sorry, Did you have fun?” Faros asked her.
+“Lots, look at all the candy I bought!”
+“Haha its looks tasty.”
+“It is” Mira said with a mouth full with candy. 
+“I’m glad you had fun, now let’s go home”.
+
+
+
+
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="50">
+            <Title>In the Darkness</Title>
+            <Synopsis>Rewrite the chapter,
+wakes up in a cofin, gets out, in a room, touches the wall, attacked, breaks the symbols, breaks out the room
+
+lola can't remeber who she is, she is angry and sassy.
+ 
+END CHAPTER</Synopsis>
+            <Text>It was pitch black when she woke up “What? Where am I?” the young lady said in a confused voice. She felt the air with her hand, trying to grasp where she was. She touched a cold surface made of stone placed above her.
+“What!?” she shouted terrified as she came to the realization she was in a coffin! “HELP!!” help the girl cried “Can someone hear me?” she started banging on the coffin’s ceiling trying to make it move, but for no use, the ceiling wouldn’t budge. 
+An hour had passed, or maybe two, or three? She had no sense of time. As the air grew thicker and her breathing became heavy the girl understood she would die. If not by starving to death, then the lack of air would end her shortly. With that realization she decided to give one last go at escaping. She folded her legs putting her feet and hands on the ceiling and started pushing with all her power.
+“Common’!!” She yelled as her muscles screamed with pain. Slowly but surely the ceiling started to move. She began smiling when she saw a sliver of light entered the coffin she was in.
+BOOM, a loud sound was heard as the coffin’s ceiling landed on the floor beneath it. She held on to the coffin’s walls with both her hands and pulled herself out.
+She wore a dress blue as if it was made from the sky itself, her eyes were honey brown, and her skin pale as if it was never touched by the sun before.
+“Ouch” she said as she felt a sharp pain in her knees and back. For how long have I been in there?
+She found herself standing in a pyramid-shaped room. On the walls were written strange symbols in an unreadable language, and strangely enough, the text was glowing. The entire room was colored in green, the color of the glowing text.
+She started walking towards the wall in front of her, eager to get a closer look. As she got closer, she noticed that the symbols were floating, just a few centimeters of the wall. On the wall itself were drawn many paintings. She could tell the paintings were very old, the color in them had almost completely vanished, leaving the young girl wondering what was once depicted in them.
+She sent her hand forward, wanting to touch the wall. The second she laid her hand on the cold stone, her body filled with pain as a lightning-like strike hit her right in the chest throwing her to the other side of the room, hitting the coffin on the way. 
+Shocked, she laid there, on the dusty floor, trying to understand what just happened. She wasn’t in any pain, it was gone as quick as it came At least that she thought to herself.
+As she laid there, she understood that if she won't find a way out of there soon, she would die. She was already hungry and thirsty and her body began to feel weak.
+Desperate, the girl got closer to the wall once again, careful not to get too close, trying to find any hint on how to escape.
+She circled the room, carefully examining what remained from the paintings on the walls, trying to understand what story was trying to be told.
+She noticed that in one of the paintings was a room, similar to the one she was in. In it, a person was drawn near a wall but she couldn’t tell what he was looking at due to the condition of the painting. That was the only painting in the room that could  have remotely help her, All the other paintings were of outlandish landscapes that looked strangely familiar to her. 
+There is no way I’m getting close to that wall again
+she thought to herself while looking at the painting and then on her shaking hand. But how come the man in the painting wasn’t injured? The girl asked herself wondering. She took a step backward trying to see the bigger picture.
+“Maybe he touched one of the symbols, and not the wall itself?” she thought out loud. She was too scared to check after what happened the last time she touched something on that wall. But knowing fully well that she had no other choice the girl started walking towards the nearest symbol. She moved her hand forwards, shaking with fear by the thought of being attacked again. It seemed to take her forever, even so, slowly but surely her hand got closer and closer to the symbol.
+Finally, the girl’s hand pressed against the symbol, and to her surprise, nothing happened. “Finally, I’m getting somewhere” She said to herself smiling.
+“But now what?” she thought out loud.
+With newly regained confidence she walked around the room touching each symbol trying to see if anything else would happen.
+“What exactly is this place? And what’s the deal with that stupid wall?” Slowly, a terrifying answer started to form in her head, that wasn’t a regular room, it was a prison, and the walls were being protected, preventing her from escaping.
+What other explanation is there? What did I do to be locked up in here? Way I can’t remember!?
+Terrified with what her discovery meant, she yelled helplessly begging for anyone to hear her and come to her rescue. She screamed and yelled for what seemed hours, but no one came or replied, the only sound she heard was her own as it bounced of the stone walls.
+Only after she run out of power and her throat got dry and painful she stopped yelling. Filled with frustration she stood up and started walking straight to the wall, raising her hand as she got closer. Brimming with anger she lashed out, throwing her hand at the wall as hard as she could, hitting one of the glowing green symbols.
+‘VOOMM’ The second she hit the symbol, a vibration like sound filled the entire room, causing the walls to wobble like water, as if a shock wave went through them.
+Excited the girl started punching the symbols on the wall one by one, causing the entire room to shake. She started noticing that each symbol she punched began to crack, eventually breaking apart completely, turning into dust as the pieces fell on the floor. With each symbol gone, the room began to get darker and darker.
+Only one more left, the young lady thought to herself as she looked at her bruised hands. She walked to the other side of the room where the last glowing symbol remained.
+With her remaining power she threw a weak punch, then another, and another, until finally it broke and all the glowing symbols were glowing no more and the room filled with darkness.
+For a moment nothing happened as the young girl waited in the dark. But all of a sudden, a shaking sound was heard and slivers of light started to enter the room as a door-shaped exit was starting to form in the wall in front of her.</Text>
+        </Document>
+        <Document ID="51"/>
+        <Document ID="52">
+            <Title>Winds of freedom(L)</Title>
+        </Document>
+        <Document ID="53">
+            <Title>Scene</Title>
+            <Synopsis>gets out the room, blinded by the sun light, sand, dunes to all diractions, starts going north using the sun, dont know how she knows to do it.
+
+passes out, wakes up, a little boy above her face looking at her, as she wakes up he run and shout for his mother, his mother comes, grey eyes, the mother is blind, Lola is scared of her at first, wonders where she is, askes the mother who is she.
+there are in a water place like in the movies, their are wonderes, and the boy saw her when she was passed out by accident
+
+they ask her about her apperce, she is light skined and her cloth are like somethings they never seem before
+doesnt tell them about the room, 
+
+they give her food and water, company, and ask her to join them.
+she refuse them and ask for diractions to the nearest town, where she might understns who she is.
+
+the town she goes to is 
+dale hsif</Synopsis>
+            <Text>“Ouch” the girl moaned, putting her hands over her eyes, protecting them from the excruciating sun. The sunlight felt like needles poking at her eyes, she was in the dark room a long time with no light except for the symbol’s green aura. As she walked outside the wind brushed against her face, Ha the winds of freedom…
+After her eyes got used to the sun, she looked around trying to find any sign of civilization, “Sand, sand, sand,  oh hey look! more sand” she said in a sarcastic voice. She found herself in the middle of the desert. In the distance were glittering mountains of sand, and each time the wind blew upon it, it looked like lakes made of molten gold were flowing to the ground. The only thing she saw except for sand was the entrance back into the room.
+She could tell it was the beginning of the day, the sun was low in the horizon. I need to start moving, she thought to herself, but in what direction?
+North I suppose, not that it really matters.
+She walked and walked for what seemed like forever, the sun slowly rose through the sky as the day turned to night and then day again.
+
+“Aguh its so hot” her mouth was dry and her dress was to sticking to her body, she wasn’t used to this hot climate. Finally, after almost two full days her body couldn’t bear it anymore. Her vision became blurry, the ground vanished in a burst of light and she fell into the darkness.
+
+“Mother! Mother! She’s waking up”
+She opened her eyes slowly and saw a little boy leaning over her.
+“What…where am I?”
+“Don’t stand up, mother will be here shortly”
+“Who are you?”
+“My name is Zar. I found you on the way home, you were just laying there, Haha I thought you were dead, but lucky for you, you weren’t”
+“Yeah, I guess you are right. Thank you for taking care of me”
+“Don’t thank me, my mother was the one who treated your wounds. Oh, here she is.”
+“Hello darling, how are you feeling?”
+“I feel great, thank you. But who are you exactly and where am I?”
+“My name is Betrest, and this is my son, Zar. He found you on the way home from the field and took you to our home in the city, and you are very lucky he did, you would have died in a matter of hours otherwise“
+the girl smiled at the boy, leaned in and kissed him on the forehead, “Thank you, you saved my life.”
+“He He, it was my pleasure!” Zar said proudly.
+“You haven’t told us your name yet” said Betrest.
+“Oh you are right, I am sorry. My name is… my name is…” the girl had a deep look on her face, as she tried to remember her own name.
+“I’m not sure” she said finally.
+“You don’t even remember your own name?” Betrest asked worriedly ”you don’t remember anything at all?”
+“No” the girl said in a shy voice.
+“I wonder where you are from… your dress, such a design, I haven’t seen anything like that before. That color, what is it?”
+The girl looked awkwardly at her dress “It’s blue, how come you don’t know what it is?”
+Betrest looked at her in a suspicious way “Blue you say?”.
+The girl stared at the floor looking for something to say.
+“What exactly you do remember?” The mother pressed.
+It started to feel like an interrogation, Do I tell them about the tomb? Maybe they could help, the girl thought.
+“Well?”
+“A few days ago” the girl started to say “I woke up and everything was dark, I was in a coffin”. 
+The mother looked horrified. “And then what?” she asked.
+The girl continued “when I got out I found myself in a dark room with no exist”, she refrained from talking about the glowing symbols.
+Betrest as pale as ice, she jumped up to her feet and pointed at the door ”OUT!”.
+“Mother what are you doing?” little Zar exclaimed.
+“Quiet boy, we don’t need people like that in our home, what will your father say?”
+“please I beg of you, let me stay” the girl pleaded, but for no use.
+“I SAID OUT, GET OUT!” Betrest screamed at the scared girl.
+Scared for her life, the girl went outside, she was in a small city near a river, and with nowhere to go she started running.
+Everyone who saw her, looked at her in a weird way, why everyone looks at me like that? Is it the dress? How in god’s name don't they know what the color blue is? In any case, I need to hide…
+She saw a small road between two building, she hid there for a while. As she hid, she heard two women talking nearby.
+“You heard about that weird girl, that was running around?”
+“yes, I heard she wore a dress the color of the river” 
+“that’s crazy, are you saying, she wore water?”
+“I don’t know… I guess those are just rumors… anyway, the neighbor told me the guards are looking for her”
+what?! The police is after me? Why? I didn’t do anything wrong!
+“Really? She must be a thief or something worse…”
+The girl heard enough, she was about to start running and try to escape the city, when she suddenly heard a man’s voice.
+“Hey you! Stop right there”, it was one of the guards.
+“What what do you want from me?”
+“I have orders to capture you and take you to the palace, now, come here and don’t make any trouble“
+“No! I am not going to go anywhere with you”
+“Argh you little bitch, come here now or I will take you to the palace in pieces”, the guard pointed a sharp sword straight at her face. The girl fell backward and the guard swung his swords at her, she rolled sideways and grabbed a stone from the ground jumped to her feet behind him and before he could react she bushed him in the head with the rock. The guard toppled over, blood rushed from his head coloring the ground red.
+What… what… what have I done?! The girl looked at her hand where she still held the stone, only now, it was covered in blood, tears filled her eyes, she looked at the dead man in front of her and at the pool of blood that started to form. She threw the rock to the ground and run away, tears still rolling down her cheeks. 
+
+
+
+
+
+
+
+</Text>
+        </Document>
+        <Document ID="54">
+            <Title>final draft</Title>
+        </Document>
+        <Document ID="55">
+            <Title>Scene 2</Title>
+            <Text>dlskfjsdlkfjs</Text>
+        </Document>
+        <Document ID="56">
+            <Title>Inprisonment(F)</Title>
+        </Document>
+        <Document ID="57"/>
+        <Document ID="58">
+            <Title>Scene</Title>
+            <Text>“Home at last!” Faros exclaimed when he entered their tent. “Mira, did you have a good time at the market?”
+“yep” she managed to say with a mouth full candy.
+“I am glad, now put that candy away and help me organize all that I’ve bought.”
+With Mira’s help it didn’t take long. They went through the groceries and put them in small baskets in the tent’s left corner with all the other provisions.
+After they finished Faros went behind some jugs of water looking for something, two folds in the tent’s fabric, “here”. He slid his hand in and took out what he was looking for. A small wallet, in it was all their money.
+He reached into his pocket and took the silver coins he got for the ring and put it in the wallet. Good, it looks like we have enough for the next few weeks.
+When Faros finished he returned the wallet to its hiding spot and walked back to Mira.
+“All right then, let’s get you ready for bed.”
+“What?! But it’s early! Look, the sun is still high in the sky.”
+“Enough Mira, I don’t want to hear any arguments.”
+“Argh fine…”
+“Great, now grab a new shirt and let’s go to bathe in the river”.
+She run to a little wooden box on the floor near the sheets and cloth they used as beds, she opened the box and took a clean white tonic out of it.
+It didn’t take them long to get to the river, they could practically hear the sound of the gushing water from their tent.
+When they got to the river, Mira took off her clothes and jumped straight into the river.
+Faros, on the other hand, took more time. First of all, he had to take off his black eyepatch covering his blind right eye. It was made from leather and considering their tough circumstances it was good quality.
+Then he slowly took off his shirt to reveal a hideous scar running through his right side, all the way from his collarbone to his waist. Mira grilled him about it countless times, but he never told her how he got it.
+At last when he was fully naked, but still wearing his necklace, of course, he joined Mira in the river to let the flowing water cleanse their bodies.
+After a few minutes in the water they got out. Let the dry desert air dry them, wore their clean clothes and went back to their tent.
+“What would you like for dinner?” Faros asked his little sister, “We can cook the potatoes I bought today, and we have some bread left-over from last week”.
+“Just some bread please” Mira said.
+“Are you sure?” she barely eats anything these days, does she think we can’t afford it? “We have plenty. Remember that ring I took with us to the market? I managed to sell it!”
+“Oh that’s great, but really I am not that hungry” she said quietly.
+“OK then” he said at last, still worrying.
+They ate their dinner in silence and then went to bed. The desert nights were incredibly cold and the only blankets to warm them were a bunch of ragged cloth, so to keep warm they slept together, hugging each other.
+
+The sound of crashing rocks and distant mumbling tore Faros from his sleep.
+Who can this be? Faros asked himself, no one comes here, not even at midday, so in the middle of the night?
+Mira who was sleeping just next to Faros hadn’t noticed yet and was fast asleep. Faros got out from their makeshift bed, went to the ten’s wall and pressed his ear against it.
+“Where is it? I can’t see anything in this darkness?” someone said in a man’s voice.
+“Be quiet already {name}, it’s that sorry excuse of a tent at the bottom of this hill.” A different voice replied, also a man’s.
+“Argh crap, we’ll have to go around and come from the riverside.” The first man said
+“What’s all this commotion?” it was a different man, he had a much deeper voice and it was full of authority.
+“Sorry captain, it looks like we’ll have to take a detour to get down there.”
+“Alright then, let's get a move on.” The alleged captain said.
+Who are they?! What do they want with us? It can be good news…we have to get away from here.
+“Mira…Mira...MIRA!” he said right too her ear, trying to not be too loud.
+“What, it’s the middle of the night.” She said in a sleepy voice.
+“Wake up, get ready to leave”
+“What? Way?”
+“I heard people nearby, they are coming here, there’s no time for more explaining so get ready to leave.”
+“What?! What could they want with us? We haven’t done anything wrong”
+“We’ll have to find out later, but for now just put on your sandals and get ready to get out of here.”
+What do we take with us? There is no time to pack anything…
+With no much time to think Faros decided to take only the wallet. He run to it’s hiding place, while trying to find a balance between speed and quiet.
+In the meanwhile, Mira already got her shoes on and started packing food into a small bag.
+“Mira, don’t, we don’t have the time for this. We have to go now” he said to her after noticing what she was doing.
+“Alright, now, you follow me ok? And try to not make any noise”
+Together you went through the tent’s exit.
+“Faros look!” Mira said in a scared voice. Faros also noticed it right away, a few shining spots of red light were in the not too far distance, moving in their direction.
+“Mira, listen, let's run to {village name} and try to hide in the market until the morning and figure out what to do then, OK?”
+“OK” she replied quietly
+Faros just started walking when he stopped and look back at Mira, he saw a terrified little girl.
+“Hey, it’s going to be ok, trust your big brother.” He said with a reassuring voice, or at least he tried…
+She replied with a small smile and a shake of her head in agreement and Faros smiled back at her.
+Together, they managed to go a few hundred meters without any problem, but then all of a sudden a burst of light filled the dark desert.
+They looked back towards their tent, but all they saw were blazing red flames, eating their home, slowly turning it into ash.
+“NO!!” Mira screamed but Faros was quick and put his hand on her mouth.
+“Mira! They could have heard you!”
+“Brother” she said, tears running down her cheeks.
+“our home…”, the way she looked at him when she spoke, it caused him physical pain to see his little sister like that.
+It took him a while to find his words, but finally he said “It…it’s going to be alright. We can start a new life again, just like last time when mom died, do you remember? You were only four when she passed away.”
+She nodded. “we can move to {place name} or even {place name}, you can choose where ever you what. Does that sound good?”
+“Yes” Mira said, Faros noticed she stopped crying.
+He smiled at her, “Great, but for now, we have to keep moving”. Instead of saying anything, she just held his hand and together they started walking again.
+Faros looked backwards frequently to check how far the men were from them. He grinned when he saw they went in a completely different direction. 
+“Mira, look.” He pointed at the little dots of light that were the men’s torches. “See, they have no clue where we are, in this darkness they don’t even know where they are!”
+“yes” she replied, “we are lucky that we know this area so good…”
+After another half hour of walking they saw {village name} at last.
+“It took us longer than I expected. The sun is already beginning to shine and the market will open soon. We won’t be able to hide there…”
+“So, what do we do now then?” Mira asked.
+“I…” I don’t know. What do we even supposed to do now? It isn’t safe for us in {village name}, they probably have people looking for us here as well…
+“Faros?” she asked
+“We have to get out of here” Faros finally said, “The Nile, let’s get to its other side. Maybe we’ll be safe there.”
+ They turned back and walked out of the village and started to go towards the river. They managed to go only a few hundred meters when they heard someone shouting at them.
+“Hey you two, stop right there” Faros recognized the voice, it was one of the men from last night. He stood just outside the village and his group was next to him.
+Faros and Mira started running to the river. If we can make it into the water maybe they won’t follow us… “Mira, jump straight to the water and swim to the next side!”. She didn’t respond, maybe she didn’t have any air to spare for speaking.
+Faros and Mira run as fast as they could when Faros hit a rock on the floor and fell to the ground.
+“Faros!” Mira said. She stopped running and turned back to her brother.
+“What are you doing Mira?! RUN” the man were closing in on them and the river was just ahead.
+She didn’t listen and run to help him get up.
+“Argh my ankle, I think I twisted it. You will have to go on without me.”
+“No way! I am not going to…” they were too late.
+The men caught up to them, there were about twenty men in their group. 
+It was the first time Faros and Mira actually saw them up close. All of them were dressed in short brown leather pants, some wore white cotton shirt and some wore no shirt at all, but all of them held a long spear with a deadly edge.
+ “We got you now, you little pricks. You thought you got us last night uh? Did you really think we won’t find you?” Said the guard who spotted them a few minutes ago.
+The men surrounded them, creating a circle of blades threatening to attack anyone who dared to move.
+One of the guards stepped forward, he was probably the captain. He was a tall man with dark brown skin, clean-shaven face and a posture of a wall. Also, he was the only one who wielded a sword instead of a spear.
+&quot;my name is captain {captain name}. I and my team were sent on behalf of the palace to capture you.&quot; captain {captain name} explained.
+&quot;What?! Why? What do you want from me?&quot; Faros asked, &quot;I didn't do anything wrong!&quot;
+&quot;safe all of that for your court hearing…&quot; the captain said.
+A court hearing? Buy why? What could they have on me? Is it the robbing? No, it can't be…I always make sure no one sees me and no one ever did!
+{captain name} looked at one of the guards and then pointed with his head towards Faros, &quot;Take him to the palace and inform chief Golar&quot;.
+&quot;Right away captain&quot; the man responded and approached Faros with his spear held high.
+He got behind Faros, who still lied on the floor, pocked him in the shoulder with his spear and yelled &quot;move it&quot;. Faros granted in pain and stood up.
+&quot;What do you think you are doing? Where are you taking him?&quot; Mira cried helplessly
+&quot;Quiet kid!&quot; the guard snapped at her and struck her in the chest with the back end of his spear.
+&quot;Mira!&quot; Faros cried, he then looked at the guard &quot;What the hell do you think you are doing?!&quot; Faros lashed out, he pushed the guard who had his back against him, made a fist in his right arm and he was about to strike him in the head. When he himself felt a brutal strike to the back of his head, it was captain {captain name} who hit him, and with the back of his sword.
+In an instant, the light in his eyes went off and sparkling dots appeared in his mind.
+He just managed to hear Mira screaming out his name, without knowing how he got there he found himself on the dusty ground, slowly losing consciousness.
+ 
+
+
+
+
+
+
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
